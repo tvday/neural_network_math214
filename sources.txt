@@ -1,0 +1,2 @@
+mnist.py for loading the data into numpy arrays:
+https://github.com/hsjeong5/MNIST-for-Numpy
